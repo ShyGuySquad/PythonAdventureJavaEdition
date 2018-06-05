@@ -1,4 +1,4 @@
 language: java
 script:
-  - java -v
-  - javac -v
+  - java --version
+  - javac --version
